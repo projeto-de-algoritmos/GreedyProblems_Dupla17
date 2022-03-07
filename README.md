@@ -21,6 +21,8 @@ Esse projeto tem como objetivo mostrar a utilização de algoritmos ambiciosos r
 
 O funcionamento do projeto se dá com a execução de cada arquivo, passando como valores de entrada os exemplos de cada problema, que se encontra nos links que há dentro de cada arquivo.py neste repositório. 
 
+**OBS.:** O vídeo de apresentação se encontra na pasta 'vid_apresentacao'
+
 ## Screenshots
 
 | | |
