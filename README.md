@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 18/0096991  |  Álvaro Leles Guimaraes |
+| 18/0096991  |  Álvaro Leles Guimarães |
 | 18/0102087  |  Ian Fillipe Pontes Ferreira |
 
 ## Sobre 
