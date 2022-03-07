@@ -1,7 +1,7 @@
 # Greedy_Dupla17
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: Greed<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
