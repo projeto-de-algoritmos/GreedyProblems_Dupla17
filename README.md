@@ -87,7 +87,7 @@ python3 codeforces_RationalLee.py
 
 ### beecrowd_1966.py
 
-Esse problema simula o problema da machila fracionária, logo, em sua solução, ordenamos os queijos por ordem decrescente de volume/preço, pois assim conseguiríamos encontrar qual seria a melhor opção de queijo para comprar até o dinheiro disponível acabar, sendo que se o valor total do pedaço de queijo ultrapassasse o dinheiro, pegávamos a fração possível de queijo que pudesse ser comprada.
+Esse problema simula o problema da mochila fracionária, logo, em sua solução, ordenamos os queijos por ordem decrescente de volume/preço, pois assim conseguiríamos encontrar qual seria a melhor opção de queijo para comprar até o dinheiro disponível acabar, sendo que se o valor total do pedaço de queijo ultrapassasse o dinheiro, pegávamos a fração possível de queijo que pudesse ser comprada.
 
 ### spoj_BUSYMAN.py
 
