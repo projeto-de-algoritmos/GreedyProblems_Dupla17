@@ -93,7 +93,7 @@ Esse problema simula o problema da mochila fracionária, logo, em sua solução,
 
 ### spoj_BUSYMAN.py
 
-Esse problema simula o problema do agendamento de intervalo, logo, em sua solução, ordenamos as atividades por ordem crescente de início da atividade, e fizemos um loop que passa por todas as atividades adicionando as atividades que o início seja maior ou igual ao final da última atividade adicionada.
+Esse problema simula o problema do agendamento de intervalo, logo, em sua solução, ordenamos as atividades por ordem crescente de fim da atividade, e fizemos um loop que passa por todas as atividades adicionando as atividades que o início seja maior ou igual ao final da última atividade adicionada.
 
 ### HackerRank_Tree_Huffman_Decoding.py
 
